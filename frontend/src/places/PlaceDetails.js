@@ -105,7 +105,6 @@ function PlaceDetails() {
 		})
 	}
 
-
 	let placeActions = null
 
 	if (currentUser?.role === 'admin') {
